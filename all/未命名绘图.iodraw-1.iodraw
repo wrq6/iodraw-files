@@ -11,7 +11,7 @@
           <mxGeometry x="351" y="109" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Xj3fgVMktHK6YxxuOpuo-3" value="剔除错误与重复值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="333" y="207" width="176" height="176" as="geometry" />
+          <mxGeometry x="333" y="180" width="176" height="176" as="geometry" />
         </mxCell>
         <mxCell id="Xj3fgVMktHK6YxxuOpuo-4" value="采用基于db4小波和SURE阈值的小波阈值法进行去噪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="211" y="456" width="250" height="66" as="geometry" />
