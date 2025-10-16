@@ -71,6 +71,9 @@
         <mxCell id="TFfiPYGTRfYPjQfVgRDb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TFfiPYGTRfYPjQfVgRDb-17" target="TFfiPYGTRfYPjQfVgRDb-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TFfiPYGTRfYPjQfVgRDb-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TFfiPYGTRfYPjQfVgRDb-17" target="TFfiPYGTRfYPjQfVgRDb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFfiPYGTRfYPjQfVgRDb-17" value="空间特征提取" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,7 +81,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFfiPYGTRfYPjQfVgRDb-24" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFfiPYGTRfYPjQfVgRDb-27" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
