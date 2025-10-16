@@ -89,6 +89,9 @@
         <mxCell id="TFfiPYGTRfYPjQfVgRDb-27" value="多层GCN聚合邻居节点信息" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TFfiPYGTRfYPjQfVgRDb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TFfiPYGTRfYPjQfVgRDb-30" target="TFfiPYGTRfYPjQfVgRDb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TFfiPYGTRfYPjQfVgRDb-30" value="时间特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="790" width="120" height="60" as="geometry" />
         </mxCell>
@@ -97,6 +100,9 @@
         </mxCell>
         <mxCell id="TFfiPYGTRfYPjQfVgRDb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TFfiPYGTRfYPjQfVgRDb-27" target="TFfiPYGTRfYPjQfVgRDb-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TFfiPYGTRfYPjQfVgRDb-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
