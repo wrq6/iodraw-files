@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-31" target="ykonVWtF-3PxQmyjhgxO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="585" y="170" width="270" height="180" as="geometry" />
         </mxCell>
@@ -103,6 +106,9 @@
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-33" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;采用基于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;db4&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;小波和&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;SURE&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;阈值的小波阈值法进行去噪&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="220" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="585" y="430" width="270" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
