@@ -129,13 +129,7 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-56" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;采用基于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;db4&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;小波和&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;SURE&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;阈值的小波阈值法进行去噪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-57" target="ykonVWtF-3PxQmyjhgxO-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-57" target="ykonVWtF-3PxQmyjhgxO-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-57" target="ykonVWtF-3PxQmyjhgxO-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-57" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -193,6 +187,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="485" as="sourcePoint" />
             <mxPoint x="695" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-86" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="495" as="sourcePoint" />
+            <mxPoint x="705" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
