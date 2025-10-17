@@ -66,7 +66,7 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-18" value="多层GCN聚合邻居节点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-19" target="ykonVWtF-3PxQmyjhgxO-18">
