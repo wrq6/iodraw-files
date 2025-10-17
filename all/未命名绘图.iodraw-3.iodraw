@@ -100,16 +100,13 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-6" target="ykonVWtF-3PxQmyjhgxO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-25">
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-25" target="ykonVWtF-3PxQmyjhgxO-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-25" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="110" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-30" value="数据预处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="685" y="175" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-38" value="图结构构建" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="398" width="70" height="30" as="geometry" />
@@ -154,9 +151,15 @@
           <mxGeometry x="570" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-56" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;采用基于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;db4&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;小波和&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;SURE&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;阈值的小波阈值法进行去噪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-57" target="ykonVWtF-3PxQmyjhgxO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-57" target="ykonVWtF-3PxQmyjhgxO-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-57" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="665" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
