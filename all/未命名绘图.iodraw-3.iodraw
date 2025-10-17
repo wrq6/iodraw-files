@@ -112,11 +112,10 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-30" value="数据预处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="685" y="175" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-32" target="ykonVWtF-3PxQmyjhgxO-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-32" value="剔除错误和重复值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="220" width="80" height="80" as="geometry" />
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ykonVWtF-3PxQmyjhgxO-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ykonVWtF-3PxQmyjhgxO-33" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;采用基于&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;db4&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;小波和&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;SURE&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;阈值的小波阈值法进行去噪&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="220" width="130" height="80" as="geometry" />
