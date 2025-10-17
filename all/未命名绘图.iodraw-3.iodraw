@@ -78,6 +78,9 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-19" value="图卷积网络" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ykonVWtF-3PxQmyjhgxO-6" target="ykonVWtF-3PxQmyjhgxO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
