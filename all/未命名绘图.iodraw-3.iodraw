@@ -95,6 +95,9 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-30" value="数据预处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="685" y="175" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-32" value="剔除错误和重复值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
