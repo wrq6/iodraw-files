@@ -172,8 +172,8 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-63" value="计算皮尔逊相关系数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ykonVWtF-3PxQmyjhgxO-65" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-65" value="构建图结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
