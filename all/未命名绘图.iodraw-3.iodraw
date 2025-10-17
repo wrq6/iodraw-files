@@ -24,6 +24,9 @@
         <mxCell id="ykonVWtF-3PxQmyjhgxO-1" value="数据预处理&lt;div&gt;（剔除错误和重复值）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ykonVWtF-3PxQmyjhgxO-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
